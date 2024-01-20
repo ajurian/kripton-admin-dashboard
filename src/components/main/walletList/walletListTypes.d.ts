@@ -1,0 +1,3 @@
+interface WalletListProps {
+    items: Wallet[];
+}

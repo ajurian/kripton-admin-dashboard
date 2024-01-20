@@ -1,0 +1,29 @@
+<svg
+    width="32"
+    height="32"
+    viewBox="0 0 32 32"
+    fill="currentColor"
+    xmlns="http://www.w3.org/2000/svg"
+>
+    <rect
+        x="6.95654"
+        y="9.73914"
+        width="18.0869"
+        height="2.08696"
+        rx="1.04348"
+    />
+    <rect
+        x="6.95654"
+        y="15.3044"
+        width="18.0869"
+        height="2.08696"
+        rx="1.04348"
+    />
+    <rect
+        x="6.95654"
+        y="20.8696"
+        width="18.0869"
+        height="2.08696"
+        rx="1.04348"
+    />
+</svg>
